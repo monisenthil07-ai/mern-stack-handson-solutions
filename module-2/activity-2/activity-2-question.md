@@ -1,0 +1,1 @@
+ Activity 2: Interactive Form Development Students create a registration form with validation and user feedback mechanisms
